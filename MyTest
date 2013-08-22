@@ -1,0 +1,8 @@
+Public class MyTest{
+
+
+public static void main(String[]){
+
+System.out.println("test it);
+}
+}
